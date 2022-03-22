@@ -1,3 +1,8 @@
+# RFID Kinderjukebox
+Een makkelijke manier voor m'n jonge kinderen om zelf muziekjes aan te zetten via RFID kaartjes. V1 (conceptversie) werkt prima! Plannen voor V2 (kleiner, steviger, met een accu voor draadloos gebruik en een koptelefoon ingang voor privé-luisterplezier) zijn in gedachten vrij ver gevorderd, maar in praktijk heb ik nog niets ondernomen om dat werkelijkheid te maken (behalve enthousiast spullen kopen die nu in een la liggen te verstoffen). Wie weet, ooit! :) 
+
+Originele readme.md hieronder:
+---
 # Phoniebox: the RPi-Jukebox-RFID
 
 A contactless jukebox for the Raspberry Pi, playing audio files, playlists, podcasts, web streams and spotify triggered by RFID cards. All plug and play via USB, no soldering iron needed. Update: if you must, it now also features a howto for adding GPIO buttons controls.
